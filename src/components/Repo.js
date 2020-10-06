@@ -19,9 +19,21 @@ const columns = [
     //   render: text => <a>{text}</a>,
     },
     {
-      title: 'Description',
-      dataIndex: 'description',
-      key: 'description',
+      title: 'Stargazers Count',
+      dataIndex: 'stargazers_count',
+      key: 'stargazers_count',
+    }
+    ,
+    {
+      title: 'Language',
+      dataIndex: 'language',
+      key: 'language',
+    }
+    ,
+    {
+      title: 'Size',
+      dataIndex: 'size',
+      key: 'size',
     },
     {
         title: 'Action',

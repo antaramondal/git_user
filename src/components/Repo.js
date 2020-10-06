@@ -40,7 +40,7 @@ const columns = [
         key: 'action',
         render: (text, record) => (
           <Space size="middle">
-            <a>View {record.name}</a>
+            <a>View Repo</a>
           </Space>
         ),
       },

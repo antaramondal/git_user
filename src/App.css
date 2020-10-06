@@ -48,6 +48,7 @@
     max-height: 4cm;
   overflow-y: overlay;
   top: 35px;
+  z-index: 100;
   border-radius: 5px;
   width: 100%;
   box-shadow: 1px 1px 2px 1px rgba(0,0,0,0.75);
